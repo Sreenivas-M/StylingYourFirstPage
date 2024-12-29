@@ -1,0 +1,55 @@
+/* Style for body */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Style for header */
+  header {
+    background-color: #f4f4f4; /* Light gray */
+  }
+  
+  /* Style for nav */
+  nav {
+    background-color: #333; /* Dark gray */
+  }
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Style for list items */
+  li {
+    display: inline-block;
+    width: max-content; /* Adjust as needed */
+    margin-right: 10px;
+    padding: 10px;
+  }
+    /* Style for main */
+    main {
+      background-color: #f9f9f9; /* Lighter gray */
+      font-size: 18px; /* Slightly larger text */
+      padding: 10px 0 10px 0;
+    }
+    
+    /* Style for footer */
+    footer {
+      background-color: #bab7b7; /* Very light gray */
+      padding: 5px;
+      text-align: center;
+    }
+    footer p {
+      font-size: 14px;
+    }
+  /* Style for h1 */
+  h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #0066cc; /* Blue */
+  }
+  
+  /* Style for paragraph text */
+  p {
+    line-height: 1.5; /* Increase readability */
+  }
+  
